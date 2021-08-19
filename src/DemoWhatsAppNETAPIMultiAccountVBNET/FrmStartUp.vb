@@ -1,4 +1,4 @@
-﻿'*********************************************************************************************************
+﻿'*******************************************************************************************************************
 ' Copyright (C) 2021 Kamarudin (http://wa-net.coding4ever.net/)
 '
 ' Licensed under the Apache License, Version 2.0 (the "License"); you may not
@@ -13,8 +13,8 @@
 ' License for the specific language governing permissions and limitations under
 ' the License.
 '
-' The latest version of this file can be found at https://github.com/WhatsAppNETClient/WhatsAppNETClient2
-'*********************************************************************************************************
+' The latest version of this file can be found at https://github.com/WhatsAppNETClient/WhatsAppNETClientMultiAccount
+'*******************************************************************************************************************
 
 Imports System.IO
 
